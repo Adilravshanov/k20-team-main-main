@@ -7,7 +7,7 @@ const Home = () => (
     <div className="max-w-xl space-y-8 mb-8 md:mb-0">
       {/* page title */}
       <h1 className="animate__animated animate__fadeInDown">
-        K20 Team
+        Yusuf Team
       </h1>
 
       {/* description */}

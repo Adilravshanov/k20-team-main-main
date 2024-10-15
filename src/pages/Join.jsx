@@ -4,8 +4,8 @@ import axios from "axios";
 
 const Join = () => {
   // states
-  const chatId = -1002452351776;
-  const botId = "7582523616:AAGnWKUCxocIf0hgwutePx7wdMQGDg7OI6A";
+  const chatId = -1002409427850;
+  const botId = "7628614423:AAEF1s5tEU2BT5AAD763ZSqyeYsUvFsk3_k";
   const [isLoading, setIsLoading] = useState(false);
   const navigate = useNavigate();
 
